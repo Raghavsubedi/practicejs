@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#heading{
+    font-size: xx-large;
+    background-color: aliceblue;
+}
+#todo{
+    font-size: xx-large;
+    border-radius: 10px;
+}
+
+#submit{
+    font-size: xx-large;
+    border-radius: 10px;
+    background-color: darkgrey;
+    color: aliceblue;
+}
+
+#task{
+    font-size: xx-large;
+}
